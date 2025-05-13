@@ -1,7 +1,11 @@
-Hi, there 👋<br>I'm Kunal, a backend developer passionate about transforming business ideas into scalable, real-world solutions.<br><br>I currently working as a backend developer, where I build RESTful APIs to interact with the databases and third-party services, writing efficient server-side logic and ensuring smooth data flow between systems. <br>
+Hi, there 👋<br>I'm Kunal, a backend developer passionate about transforming business ideas into scalable, real-world solutions.<br><br>I currently working as a backend developer, where I build RESTful APIs to interact with the databases and third-party services, writing efficient server-side logic and ensuring smooth data flow between systems. <br> 
+
+I've had hands-on experience with AWS services like SES and S3, and I'm excited to explore more cloud solutions. Currently, I'm diving into the world of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to develop AI-driven solutions for real-world problems.<br>
+
+I'm all about writing clean code, optimizing performance, and continuously learning.
 
 
-## 🌐 Socials:
+## 🌐 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kunal-srivastava-7b8b431b5) 
 
 # 💻 Tech Stack:
